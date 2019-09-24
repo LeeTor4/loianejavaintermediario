@@ -3,9 +3,7 @@ package com.loiane.cursojava.aula63;
 public class ExemploPrintf {
 
 	public static void main(String[] args) {
-		
-          
-          
+		   
           String format = String.format("R$ %,.2f", 0.3f);
           String format1 = String.format("R$ %,.02f", 152541f);
          
